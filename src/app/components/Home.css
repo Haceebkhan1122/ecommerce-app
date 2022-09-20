@@ -1,0 +1,55 @@
+h1.main_head{
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 30px;
+    margin-bottom: 80px;
+    text-transform: uppercase;
+}
+.hk_product_design img {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    object-fit: contain;
+    margin-bottom: 25px;
+}
+
+.hk_product_design h1 {
+    font-size: 18px;
+    font-family: inherit;
+}
+
+.hk_product_design h3 {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.hk_product_design p {
+    font-size: 14px;
+}
+
+.hk_product_design span {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: black;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 3px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hk_product_design {
+    position: relative;
+}
+li.nav-item.hk_name span {
+    font-size: 16px;
+    font-weight: 500;
+    position: relative;
+    top: 8px;
+    right: -6px;
+}

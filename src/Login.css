@@ -1,0 +1,27 @@
+form.login_form {
+    background: #e5e5e5;
+    padding: 40px 40px 20px 40px;
+    margin-top: 25%;
+}
+form.login_form input:focus {
+    outline: none;
+    box-shadow: none;
+}
+span.text_or {
+    margin: 10px 0px;
+    font-weight: 700;
+    display: block;
+}
+button.btn.btn-info.submit {
+    display: block;
+    width: 100%;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+button.hk_half {
+    width: 47% !important;
+    display: inline-block !important;
+    margin: 0px 5px;
+}
